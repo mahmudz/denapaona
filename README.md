@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="ic_playstore.png" height="200px"/>
+</p>
+
 <h2 align="middle">DenaPaona App</p>
 <h3 align="middle">The best app to track your borrow and lendings</h3>
 
