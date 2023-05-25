@@ -12,7 +12,7 @@
     <a href="https://github.com/mahmudz/denapaona/issues">
         <img src="https://img.shields.io/badge/-Bugs%20%2F%20Features-7057ff?style=for-the-badge" alt="Bugs/Features">
     </a>
-    <a href="https://github.com/mahmudz/denapaona/projects/1">
+    <a href="https://github.com/users/mahmudz/projects/2">
         <img src="https://img.shields.io/badge/-Road%20Map-blue?style=for-the-badge" alt="Road Map">
     </a>
 </p>
