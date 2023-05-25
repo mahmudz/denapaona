@@ -2,7 +2,7 @@
 <h3 align="middle">The best app to track your borrow and lendings</h3>
 
 <p align="center">
-    <a href="https://tableplus.com/download">
+    <a href="https://play.google.com/store/apps/details?id=dev.mahmudz.denapaona">
         <img src="https://img.shields.io/badge/-Download-ff9600?style=for-the-badge" alt="Download">
     </a>
     <a href="https://github.com/mahmudz/denapaona/issues">
@@ -18,55 +18,30 @@
 <h4 align="middle">
     <u>
         This repository is currently being used for hosting the official issue 
-        & bug tracker of TablePlus macOS
+        & bug tracker of DenaPaona App
     </u>
 </h4>
 
 <br>
 
 <pre align="middle">
-TablePlus is a native application which helps you
-easily edit database contents and structure in a
+DenaPaona is a mobile application which helps you
+easily keep track your borrow & lendings in a
 clean, fluent manner
-
-Supports PostgreSQL, Microsoft SQL Server, MySQL, RedShift, MariaDB, Cassandra, and MongoDB
 </pre>
 
 <br>
 
-<h3 align="middle">As excited as we are?</h3>
-<h4 align="middle">Check out some of our features:</h4>
-
-![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome-screen.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-light.png "Workspace")
-![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-dark.png "Dark Them screen")
-
-<br>
-
-<h3 align="middle">TablePlus is free and has no limit on trial time</h3>
+<h3 align="middle">DenaPaona is free and has no limit time</h3>
 
 <h4 align="middle">
-    We would be thrilled if you
-    <a href="https://tableplus.com/pricing">purchased a license</a>
-    to support development!
+    You can enable the premium features to get thrilling features & updates!
 </h4>
 
 <br>
 <br>
 
 <p align="center">
-    TablePlus Team | 
-    <a href="mailto:nick@tableplus.com">nick@tableplus.com</a>
-</p>
-
-<p align="center">
-    <a href="https://medium.com/@huyphams">
-        <img src="https://img.shields.io/badge/-Medium-03a87c?style=for-the-badge" alt="Medium">
-    </a>
-    <a href="https://facebook.com/tableplusapp">
-        <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge" alt="Facebook">
-    </a>
-    <a href="https://twitter.com/tableplus">
-        <img src="https://img.shields.io/badge/-Twitter-00aced?style=for-the-badge" alt="Twitter">
-    </a>
+    Mahmudul Hasan | 
+    <a href="mailto:mahmudbappy.pri@gmail.com">mahmudbappy.pri@gmail.com</a>
 </p>
